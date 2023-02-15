@@ -29,6 +29,12 @@ class ListaSimple:
     def eliminarPos(self, pos_x):
         pass
 
+    def buscar(texto_busqueda):
+        pass
+
+    def getNodoPosX(pos_x):
+        pass
+
     def printNodos(self):
         nodoI = self.root
         while(nodoI != None):
