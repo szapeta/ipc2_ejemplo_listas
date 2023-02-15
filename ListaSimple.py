@@ -41,6 +41,9 @@ class ListaSimple:
             print(nodoI.getValor(), str(nodoI.id))
             nodoI = nodoI.getSiguiente()
 
+    def crearEnlace():
+        pass
+
     def createGraph(self):
         objGraph = graphvizImage()
         nodoI = self.root
